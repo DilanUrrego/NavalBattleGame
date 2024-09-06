@@ -13,7 +13,7 @@ Dilan Urrego
 - Prerrequisitos:
 Instalar Python: Asegúrate de tener Python instalado en tu sistema. Puedes descargarlo e instalarlo desde python.org.
 
-Librerías: La única librería usada para este desarrollo es "random" que está incluida por defecto en pyhon, así que no debes descargar ninguna librería.
+Librerías: La única librería usada para este desarrollo es "random" que está incluida por defecto en python, así que no debes descargar ninguna librería.
 
 Código del Juego: Asegúrate de tener todos los archivos necesarios del proyecto en una carpeta organizada.
 
@@ -22,7 +22,7 @@ Navega a la carpeta: Una vez que hayas clonado el archivo, abre el cmd y navega 
 C:\Users\durre\Documentos\Universidad\Semestre 4\Codigo Limpio\NavalBattleGame
 
 Ejecuta el script main:
-pyhon src\Console\NavalBattleConsole.py
+python src\Console\NavalBattleConsole.py
 
 Instrucciones en Pantalla: Una vez ejecutado, sigue las instrucciones que aparecerán en la consola para jugar. El juego interactuará contigo a través de mensajes de texto y comandos de teclado.
 -
